@@ -62,10 +62,10 @@ For the second query:
 
 For the third query:
 - Column 1 = song
-- Column 2 = u
+- Column 2 = userId
 - Column 3 = firstName
 - Column 4 = lastName
-- Primary key = (song,)
+- Primary key = (song, userId)
 
 ## ETL Pipeline
 
